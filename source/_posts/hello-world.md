@@ -1,5 +1,17 @@
 ---
-title: Hello World
+title: Hello World 
+cover: http://oxnuwmm3w.bkt.clouddn.com/hello-world.jpeg
+author: 
+  nick: BruceYJ
+  link: https://www.github.com/BruceYuj
+
+# 如果文章为转载文章，需要多加文章出处项
+editor:
+  name: Minfive
+  link: https://www.github.com/Mrminfive
+
+# 首页每篇文章的子标题
+subtitle: your subtitle
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
