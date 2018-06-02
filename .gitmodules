@@ -1,0 +1,3 @@
+[submodule "themes/hexadecimalTeachBlog.github.io"]
+	path = themes/hexadecimalTeachBlog.github.io
+	url = https://github.com/hexadecimalTeachBlog/hexadecimalTeachBlog.github.io.git
