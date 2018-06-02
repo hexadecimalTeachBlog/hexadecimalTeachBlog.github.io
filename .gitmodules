@@ -1,6 +1,0 @@
-[submodule "themes/hexadecimalTeachBlog.github.io"]
-	path = themes/hexadecimalTeachBlog.github.io
-	url = https://github.com/hexadecimalTeachBlog/hexadecimalTeachBlog.github.io.git
-[submodule "hexadecimalTeachBlog.github.io"]
-	path = hexadecimalTeachBlog.github.io
-	url = https://github.com/hexadecimalTeachBlog/hexadecimalTeachBlog.github.io.git
