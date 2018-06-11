@@ -6,16 +6,16 @@ title: HexadecimalTeach - 十六進位技術共筆部落格
 subtitle: HexadecimalTeach - 十六進位技術共筆部落格
 
 # introduction  in the banner header
-subtitle_desc: 日常学习与兴趣交流
+subtitle_desc: 日常學習與興趣交流
 
 # seo keyword
-keywords: minfive, minfive blog, 前端博客, 前端, 程序员, 前端开发, 全栈开发, node.js, javascript
+keywords: 六角學院, 前端, 前端開發, react, vue, angular, node.js, javascript
 
 # blog description（for seo）
-description: 日常学习与兴趣交流的个人博客
+description: 由一群六角學生的日常學習與興趣交流的共筆部落格
 
 # self introduction
-introduction: 不思量，自难忘！
+introduction: 不思量，自難忘！
 
 # your blog favicon icon, support two ways: local and online. the local way need you to put the icon under  themes/hexo-theme-skapp/source/img directory
 favicon_ico: ./img/favicon.ico
@@ -46,6 +46,6 @@ author:
 
 # footer information
 about:
-  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享日常学习、生活及工作的一些心得总结，欢迎点击右下角订阅 rss。
+  info: 本站是由一群六角學生所組成的技術共筆部落格，主要用於分享日常學習及工作的一些心得總結，歡迎點擊右下角訂閱 rss。
 #  address: Guangzhou, Guangdong Province, China
 #  email: chenxiaowu1994@outlook.com
