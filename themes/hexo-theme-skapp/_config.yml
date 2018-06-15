@@ -21,7 +21,7 @@ introduction: 不思量，自難忘！
 favicon_ico: ./img/favicon.ico
 
 # blog logo icon in the upper left corner. support the local way and online way. 
-logo: ./img/logo.png
+logo: /img/logo.png
 
 # avatar
 # avatar: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png

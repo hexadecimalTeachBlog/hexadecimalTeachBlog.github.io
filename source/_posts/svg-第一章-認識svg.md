@@ -1,7 +1,7 @@
 ---
 title: svg -第一章-認識svg
 date: 2018-06-14 15:22:15
-cover: img/svg-第一章-認識svg/svg.svg
+cover: /img/svg-第一章-認識svg/svg.svg
 author: 
   nick: 解到起屁臉 
 tags:
