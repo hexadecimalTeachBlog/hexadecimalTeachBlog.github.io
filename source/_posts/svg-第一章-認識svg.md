@@ -33,7 +33,9 @@ tags:
 4.圖層的觀念，寫後面的code屬性會蓋在前一層上
 
 ### 有了對svg有個基礎的認識之後，讓我們繼續吧
+
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg"><rect width="100%" height="100%" fill="blue" /><text x="50%" y="60%" font-size="30" text-anchor="middle" fill="white">我是SVG</text></svg>
+
 ```html
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="blue" />
