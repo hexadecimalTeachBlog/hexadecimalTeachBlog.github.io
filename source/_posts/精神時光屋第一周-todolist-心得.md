@@ -1,6 +1,7 @@
 ---
 title: 精神時光屋第一周 todolist 心得
 date: 2018-06-11 10:24:28
+categories: TheF2E
 author: 
   nick: 解到起屁臉 
 tags: 
