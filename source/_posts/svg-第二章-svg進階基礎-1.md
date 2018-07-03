@@ -2,6 +2,7 @@
 title: svg -第二章-svg進階基礎(1)
 date: 
 cover: https://upload.cc/i1/2018/07/02/SsbxMu.png
+categories: svg
 author: 
   nick: Joseph 
 tags: 
