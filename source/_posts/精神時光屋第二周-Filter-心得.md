@@ -20,8 +20,9 @@ tags:
 屁孩如我在讀書會中誇下海口說這週要一口氣學會 TypeScript & Vuex 並且運用在這週的挑戰項目上面！！！ .....隔兩天表示放棄。也不是說學不好，而是我花了兩天時間都沒辦法把 TypeScript 加入我現行的 VueCLI 3.0 專案中，但是如果是從頭建立則毫無問題，判斷起來應該是我有一些底層的 webpack 與 vue-loader 知識需要加強，所以我又追加幾個小項目，而 TS ...next time, baby.
 
 <center><img src="https://i.imgur.com/ZRFhtWw.gif" /></center>
-<br/>
 
+<br>
+<br>
 ## <center>自我學習項目</center>
 
 - [Axios](https://github.com/axios/axios)
