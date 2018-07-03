@@ -146,3 +146,6 @@ hfc_favicons:
 
 # Disqus
 disqus_shortname: hexadecimalTeachBlog
+
+# Busuanzi
+busuanzi: true
