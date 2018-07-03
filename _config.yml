@@ -143,3 +143,6 @@ hfc_favicons:
     opengraph: false
     windows: true
     yandex: false
+
+# Disqus
+disqus_shortname: hexadecimalTeachBlog
